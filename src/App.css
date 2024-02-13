@@ -81,8 +81,12 @@
    overflow: hidden;
 }
 .side.two {
-   transform:skew(10deg,-15deg);
+   /* transform:skew(10deg,-15deg); */
    background:linear-gradient(-90deg, #fff, #fff 40%, #f0f0f0);
+}
+
+.side.two p:first-child {
+  margin-bottom: 1rem;
 }
 
 #root {

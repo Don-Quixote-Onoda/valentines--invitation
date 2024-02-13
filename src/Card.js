@@ -7,10 +7,10 @@ function Card() {
         <i class="fas fa-heart"></i>
     </div>
     <div class="side two">
-        <p>MI DULCE AMOR,</p>
-        <p>En este día especial, simplemente quiero expresar lo que siento desde lo más profundo de mi corazón. Tú eres mi todo. Cada vez que te veo, siento que el mundo tiene sentido. Eres mi compañer@ de vida, mi apoyo incondicional y mi razón para sonreír cada día.</p>
-        <p>Gracias por estar a mi lado en los buenos y malos momentos, por ser mi confidente y mi mejor amig@. Feliz San Valentín, amor.</p>
-        <h2>TU NOVI@</h2>
+        <p>Hi Bab,</p>
+        <p>Bab before this day ends, ngayo ko sorry if kani ra ako mahatag so far this valentine. Love kaau tika. It is my first time mag valentine nga with message, hope you appreciate it. I would like to say thank you for being my boyfriend. Wala jud ga duha duha ang universe hatag nako nimo. Ikaw ako ideal nga partner, gwapo, taas, matured, competent, happy, tabian, ug opposite kaau sa ako character. Despite of that we are very alike, we do have the same experience and same ta vibes. Kabalo ang universe unsa ko ka willing mo invest ug time nimo.</p>
+        <p> I remember the time nga nagkita, mas merry kaau ang Christmas kay na akoa ka. Ikaw ang pinaka best nga gift sa tanan. Let's accept each other's flaws bab. Love kaau tika.</p>
+        <h2>I Love you</h2>
     </div>
 </div>
   )
